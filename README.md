@@ -1,4 +1,4 @@
-AI Therapist 
+
 The AITherapist project aims to develop a user-friendly web-based application that utilizes natural language processing (NLP) and a recommender system to analyze user-provided descriptions of their day and discern their current emotional state. With a secure login page ensuring privacy, the application accurately detects a range of emotions such as joy, sadness, anger, fear, surprise, and disgust. Once the emotions are identified, the system recommends personalized content such as motivational quotes tailored to the user's emotion. AITherapist helps create an easy-to-use interface that seamlessly integrates NLP and recommendation algorithms to provide effective support and guidance to users in managing their emotions.
 
 Features
